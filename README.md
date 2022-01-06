@@ -1,4 +1,4 @@
-# daily_tasker
+# daily_tasker_ui
 
 ![daily tasker app ui snip 1](https://user-images.githubusercontent.com/46129169/148405498-37044557-b0f1-406c-86f9-4a546c149945.png)
 ![daily tasker app ui snip 2](https://user-images.githubusercontent.com/46129169/148405559-941da724-83e8-474d-b136-1130a12867f2.png)
